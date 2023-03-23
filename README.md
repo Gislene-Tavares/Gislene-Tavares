@@ -1,7 +1,6 @@
 ### Olá! Eu sou a Gislene Tavares! 👋
 
-- 🌱 I’m currently learning *HTML, CSS e JAVASCRIPT*.
-
+- 🌱 I’m currently  estudando *HTML, CSS e JAVASCRIPT.*
 <div>
   
    <a href=https://github.com/Gislene-Tavares>
